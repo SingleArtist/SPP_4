@@ -1,0 +1,16 @@
+D:\UNIVERSITY\5 сем\спп\MPP_4\MPP4\MPP4\bin\Debug\net5.0\MPP4.exe
+D:\UNIVERSITY\5 сем\спп\MPP_4\MPP4\MPP4\bin\Debug\net5.0\MPP4.deps.json
+D:\UNIVERSITY\5 сем\спп\MPP_4\MPP4\MPP4\bin\Debug\net5.0\MPP4.runtimeconfig.json
+D:\UNIVERSITY\5 сем\спп\MPP_4\MPP4\MPP4\bin\Debug\net5.0\MPP4.runtimeconfig.dev.json
+D:\UNIVERSITY\5 сем\спп\MPP_4\MPP4\MPP4\bin\Debug\net5.0\MPP4.dll
+D:\UNIVERSITY\5 сем\спп\MPP_4\MPP4\MPP4\bin\Debug\net5.0\ref\MPP4.dll
+D:\UNIVERSITY\5 сем\спп\MPP_4\MPP4\MPP4\bin\Debug\net5.0\MPP4.pdb
+D:\UNIVERSITY\5 сем\спп\MPP_4\MPP4\MPP4\obj\Debug\net5.0\MPP4.GeneratedMSBuildEditorConfig.editorconfig
+D:\UNIVERSITY\5 сем\спп\MPP_4\MPP4\MPP4\obj\Debug\net5.0\MPP4.AssemblyInfoInputs.cache
+D:\UNIVERSITY\5 сем\спп\MPP_4\MPP4\MPP4\obj\Debug\net5.0\MPP4.AssemblyInfo.cs
+D:\UNIVERSITY\5 сем\спп\MPP_4\MPP4\MPP4\obj\Debug\net5.0\MPP4.csproj.CoreCompileInputs.cache
+D:\UNIVERSITY\5 сем\спп\MPP_4\MPP4\MPP4\obj\Debug\net5.0\MPP4.dll
+D:\UNIVERSITY\5 сем\спп\MPP_4\MPP4\MPP4\obj\Debug\net5.0\ref\MPP4.dll
+D:\UNIVERSITY\5 сем\спп\MPP_4\MPP4\MPP4\obj\Debug\net5.0\MPP4.pdb
+D:\UNIVERSITY\5 сем\спп\MPP_4\MPP4\MPP4\obj\Debug\net5.0\MPP4.genruntimeconfig.cache
+D:\UNIVERSITY\5 сем\спп\MPP_4\MPP4\MPP4\obj\Debug\net5.0\MPP4.csproj.AssemblyReference.cache
